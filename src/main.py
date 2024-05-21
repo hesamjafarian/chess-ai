@@ -13,11 +13,12 @@ class Main:
     def __init__(self):
         # print("Hi from init")4
         pygame.init()
+        self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
+        pygame.display.set_caption('Chess&AI')
         self.game_paused = False
         self.font = pygame.font.SysFont("arialblack", 40)
         self.text_color = (0, 0, 0)
-        self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
-        pygame.display.set_caption("Chess&AI")
+
         # step 2
         self.game = Game()
 

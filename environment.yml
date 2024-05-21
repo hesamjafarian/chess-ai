@@ -1,0 +1,8 @@
+name: aiChess
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.5
+  - pip
+  - pip:
+      - -r requirements.txt
