@@ -1,7 +1,7 @@
-# Game Instructions
-
-* Working on AI gamemode...
-
+# WIP: AI Chess Game 
+## Class Diagram 
+![snapshot1](snapshots/snapshot1.png)
+#Instructions
 - Entry point: main.py
 - Press 't' to change theme (green, brown, blue, gray)
 - Press 'r' to restart the game
