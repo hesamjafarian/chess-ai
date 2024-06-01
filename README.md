@@ -1,5 +1,6 @@
 # WIP (AI Chess)
 Working on AI gamemode and debuging
+The demonstration of the classdiagram of the work! 
 ![snapshot1](/class-diagram.jpeg)
 
 
