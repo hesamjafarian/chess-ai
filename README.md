@@ -1,4 +1,4 @@
-# WIP (AI Chess)
+# WIP: AI Chess
 Working on AI gamemode and debuging!
 
 The demonstration of the classdiagram of the work! 
