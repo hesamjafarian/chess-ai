@@ -1,0 +1,14 @@
+1. Defining the constants
+2. Builiding Main class
+    2.1. initializes the pygame and sets the title
+     pygame.init()
+     self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
+     pygame.display.set_caption('Chess&AI')
+3. Building mainloop
+4. Build Game class
+    4.1. Add method def show_bg(self, surface) to the Game Class -> it builds a rectangle with the size of Squares and draw it
+         pygame.draw.rect(surface, color, rect)
+         rect = (col * SQSIZE, row * SQSIZE, SQSIZE, SQSIZE) (x,y,size x, size y)
+         color = (234,235,200) #light green
+         color = (119,154,88) #dark green
+         surface is self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
