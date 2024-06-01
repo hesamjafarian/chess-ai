@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WIP: AI Chess Game 
 ## Class Diagram 
 ![snapshot1](snapshots/classDiagram.jpeg)
