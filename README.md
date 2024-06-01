@@ -5,10 +5,10 @@ The demonstration of the classdiagram of the work!
 ![snapshot1](/class-diagram.jpeg)
 
 
-ChessGame Instructions
+Instructions
 - Entry point: main.py
-- Press 't' to change theme (green, brown, blue, gray)
-- Press 'r' to restart the game
+- Press 't' to change theme.
+- Press 'r' to restart the game.
 
 # Game Snapshots
 
