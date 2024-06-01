@@ -1,6 +1,6 @@
 # WIP (AI Chess)
 Working on AI gamemode and debuging
-![snapshot1](chess-ai//class-diagram.jpeg)
+![snapshot1](/class-diagram.jpeg)
 
 
 ChessGame Instructions
