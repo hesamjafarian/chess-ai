@@ -10,13 +10,13 @@ Instructions
 - Press 't' to change theme.
 - Press 'r' to restart the game.
 
-# Game Snapshots
+# Some Visual Captures
 
-## Snapshot 1 - Start (green)
+## Start State (green board)
 ![snapshot1](snapshots/snapshot1.png)
 
-## Snapshot 2 - Valid Moves
+## Valid Moves or States
 ![snapshot5](snapshots/snapshot5.png)
 
-## Snapshot 3 - Castling
+## Castling 
 ![snapshot6](snapshots/snapshot6.png)
