@@ -1,7 +1,7 @@
 # WIP: AI Chess
 Working on AI gamemode and debuging!
 
-The demonstration of the classdiagram of the work! 
+The demonstration of the classdiagram of the chess game! 
 ![snapshot1](snapshots/classDiagram.jpeg)
 
 
